@@ -28,7 +28,7 @@ Examples
 1.2.3.8
 2.2.3.8
 
-// Find IPs or IP ranges that are found from file2 only
+// Find IPs or IP ranges that are found from file1 only
 % python app.py -2 in1.txt in2.txt
 1.2.3.1-1.2.3.3
 2.2.3.1-2.2.3.3
