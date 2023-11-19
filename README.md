@@ -37,7 +37,7 @@ Examples
 4.2.3.1-4.2.3.2
 4.2.3.254-4.2.3.255
 
-// Find IPs or IP ranges that are found from both files.
+// Find IPs or IP ranges that are found from both files, i.e., show common entries.
 % python app.py -12 in1.txt in2.txt
 1.2.3.4-1.2.3.7
 2.2.3.4-2.2.3.7
